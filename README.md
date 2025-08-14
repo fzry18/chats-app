@@ -266,35 +266,6 @@ service cloud.firestore {
   }
 }
 ```
-
-## 🤝 Contributing
-
-Kami menyambut kontribusi dari developer lain! Silakan:
-
-1. Fork repository ini
-2. Buat branch untuk fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
-
-## 📄 License
-
-Project ini menggunakan MIT License. Lihat file `LICENSE` untuk detail lengkap.
-
-## 👥 Team
-
-- **Developer**: [Your Name]
-- **UI/UX Designer**: [Designer Name]
-- **Project Manager**: [PM Name]
-
-## 📞 Support
-
-Jika Anda menemukan bug atau memiliki pertanyaan:
-
-- 📧 Email: support@chateo.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/chateo/issues)
-- 📱 WhatsApp: +62 xxx-xxxx-xxxx
-
 ## 🗺 Roadmap
 
 ### **Version 2.0 (Coming Soon)**
@@ -316,9 +287,3 @@ Jika Anda menemukan bug atau memiliki pertanyaan:
 - [ ] Online status indicator
 - [ ] Typing indicator
 
----
-
-<div align="center">
-  <p>Made with ❤️ using Flutter & Firebase</p>
-  <p>© 2025 Chateo. All rights reserved.</p>
-</div>
